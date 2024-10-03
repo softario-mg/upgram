@@ -29,7 +29,7 @@ This project is an Instagram clone developed with [Next.js](https://nextjs.org),
 
 2. Install dependencies:
    ```bash
-   cd instagram-clone
+   cd upgram
    npm install
    ```
 
