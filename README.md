@@ -24,7 +24,7 @@ This project is an Instagram clone developed with [Next.js](https://nextjs.org),
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-name/instagram-clone.git
+   git clone https://github.com/ysoftario-mg/upgram.git
    ```
 
 2. Install dependencies:
